@@ -1,4 +1,6 @@
 #LIBRARIES
+*** Provide context for the purpose of this code. Connect to Cunsumet Manuscript and analysis******
+
 To use this model, please download boost and cereal and place them in the headers folder as "boost" and "cereal"
 
 Boost: https://www.boost.org/users/download/
